@@ -1,7 +1,7 @@
 #+STARTUP: indent
 #
 * aws re:invent sessions from 2023.
-[[\[\[https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2023/?trk=f18d2865-a894-4dc4-8fa7-5d9ad5ee2252&sc_channel=el\]\[][Top announcements of AWS re:Invent 2023 | AWS News Blog]]
+[[https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2023/?trk=f18d2865-a894-4dc4-8fa7-5d9ad5ee2252&sc_channel=el]][Top announcements of AWS re:Invent 2023 | AWS News Blog]]
 
 
 * General
