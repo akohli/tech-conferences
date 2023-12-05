@@ -1,5 +1,4 @@
 #+STARTUP: indent
-
 * aws re:invent sessions from 2023.
 [[https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2023/?trk=f18d2865-a894-4dc4-8fa7-5d9ad5ee2252&sc_channel=el][Top announcements of AWS re:Invent 2023 | AWS News Blog]]
 
@@ -63,12 +62,6 @@
 - [[https://www.youtube.com/watch?v=QSudpowE_Hs&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=100][AWS re:Invent 2023 - Performance & efficiency at Pinterest: Optimizing the latest instances (COP352) - YouTube]]
 - [[https://www.youtube.com/watch?v=LzIZ-dEzgEw&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=13][Gray failures]]
 
-
-* Corp
-- [[https://aws.amazon.com/blogs/aws/leverage-foundation-models-for-business-analysis-at-scale-with-amazon-sagemaker-canvas/][Leverage foundation models for business analysis at scale with Amazon SageMaker Canvas | AWS News Blog]]
-- [[https://www.youtube.com/watch?v=BqlekBinWuA&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=2][AWS Device farm testing, various browsers]]
-
-
 * AI and Data
 - [[https://www.youtube.com/watch?v=e3snrDsct1o&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=130][AWS re:Invent 2023 - A leader’s guide to generative AI: Using history to shape the future (SEG204) - YouTube]]
 - [[https://www.youtube.com/watch?v=q4m3vuodJXc&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=140][AWS re:Invent 2023 - Transform your customer service organization with AI and automation (BIZ224) - YouTube]]
@@ -120,6 +113,8 @@
 - [[https://www.youtube.com/watch?v=gdqgk17T2Xw&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=157][AWS re:Invent 2023 - A career journey for serverless and container cloud developers (GBL207) - YouTube]]
 - [[https://www.youtube.com/watch?v=__2f3YVCRn0&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=9][AWS re:Invent 2023 - How to build a business catalog with Amazon DataZone (ANT217) - YouTube]]
 - [[https://www.youtube.com/watch?v=vXJsU1b_JQs&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=145][AWS re:Invent 2023 - Customer insights: Apple app development with Amazon EC2 Mac instances (CMP218) - YouTube]]
+- [[https://aws.amazon.com/blogs/aws/leverage-foundation-models-for-business-analysis-at-scale-with-amazon-sagemaker-canvas/][Leverage foundation models for business analysis at scale with Amazon SageMaker Canvas | AWS News Blog]]
+- [[https://www.youtube.com/watch?v=BqlekBinWuA&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=2][AWS Device farm testing, various browsers]]
 
 
 
