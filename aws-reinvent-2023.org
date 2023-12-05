@@ -1,0 +1,143 @@
+#+STARTUP: indent
+#
+* aws re:invent sessions from 2023.
+[[\[\[https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2023/?trk=f18d2865-a894-4dc4-8fa7-5d9ad5ee2252&sc_channel=el\]\[][Top announcements of AWS re:Invent 2023 | AWS News Blog]]
+
+
+* General
+- [[https://www.youtube.com/watch?v=PMfn9_nTDbM&t=17s][Keynote Selipsky.]]
+- [[https://www.youtube.com/watch?v=8clH7cbnIQw][Keynote Sivasubramanian AI]]
+- [[https://www.youtube.com/watch?v=qySi057gXuo&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index][Keynote Werner Vogels]]
+
+* Tech
+
+- [[https://www.youtube.com/watch?v=qySi057gXuo&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=7][SaaS building multi tenant arch]]
+- [[https://www.youtube.com/watch?v=sDn1Xg4CJp4&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=72&pp=iAQB ][NFTs]]
+
+- [[https://www.youtube.com/watch?v=kZ3BZ0DhwHA&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=42 ][Build and run it: Streamline DevOps with machine learning on AWS (DOP207)]]
+- Gray failures, https://www.youtube.com/watch?v=LzIZ-dEzgEw&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=13
+- [[https://www.youtube.com/watch?v=WjCWrVnDmrM&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=51&pp=iAQB ][modern autho0, lessons from cryptography]]
+
+* Devops, includiing Observability, and cloud ops 
+** Platforms
+- [[https://www.youtube.com/watch?v=6kK27w0xPMQ&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=29][How to build a platform that developers love (DOP219)]]
+- [[https://www.youtube.com/watch?v=8mUosAh3gLc&list=PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-&index=2][AWS re:Invent 2023 - Build without limits: The next-generation developer experience at AWS (DOP225) - YouTube]]
+- [[https://www.youtube.com/watch?v=eLxBnGoBltc&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=10][Platform engineering with Amazon EKS]]
+    
+** CI/CD
+- [[https://www.youtube.com/watch?v=NOTSwr4wQw8&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=183][AWS re:Invent 2023 - Cloud-first intelligent code pipelines with Volvo Cars and TRATON (AUT102) - YouTube]]
+- [[https://www.youtube.com/watch?v=25w9uJPt0SA&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=126][AWS re:Invent 2023 - Continuous integration and delivery for AWS (DOP208) - YouTube]]
+  
+** Observability and cloudops 
+- [[https://www.youtube.com/watch?v=AjcN0LhzyFA&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=34][Driving down the cost of observability (DOP224)]]
+- [[https://www.youtube.com/watch?v=7PQv9eYCJW8&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=125][AWS re:Invent 2023 - Building an effective observability strategy (COP325) - YouTube]]
+- [[https://www.youtube.com/watch?v=Xw9XV497JuY&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=4][Security analytics and observability with Amazon OpenSearch Service]]
+- [[https://www.youtube.com/watch?v=3dF9cdkZ8kI&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=257][AWS re:Invent 2023 - Cloud operations for today, tomorrow, and beyond (COP227) - YouTube]]
+
+* Architecture
+- [[https://www.youtube.com/watch?v=U6Zz_Bj6yEY&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=21][Building APIs: Choosing the best API solution & strategy for workloads (SVS301)]]
+- [[https://www.youtube.com/watch?v=JzuNJ8OUht0&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=206][AWS re:Invent 2023 - Scaling on AWS for the first 10 million users (ARC206) - YouTube]]
+- [[https://www.youtube.com/watch?v=E0dYLPXrX_w&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=204][AWS re:Invent 2023 - Capacity, availability, cost efficiency: Pick three (CMP207) - YouTube]]
+- [[https://www.youtube.com/watch?v=DpafYmI3NQc&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=65][AWS re:Invent 2023 - Composable architecture using Amazon DynamoDB and domain-driven design (COM304) - YouTube]]
+- [[https://www.youtube.com/watch?v=T-LwDlZbbU4&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=256][AWS re:Invent 2023 - Move fast, stay secure: Strategies for the future of security (SEC237) - YouTube]]
+- [[https://www.youtube.com/watch?v=_pyjuIFH7tk&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=165][AWS re:Invent 2023 - Okta Privileged Access: Zero standing privilege is no longer a myth (SEC106) - YouTube]]
+- [[https://www.youtube.com/watch?v=cOQClEYryvU&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=228][AWS re:Invent 2023 - Building Serverlesspresso: Creating event-driven architectures (SVS204) - YouTube]]
+- [[https://www.youtube.com/watch?v=qwt-qxX48T8&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=229][AWS re:Invent 2023 - New era of IaC: Effective Kubernetes management with cdk8s (BOA310) - YouTube]]
+- [[https://www.youtube.com/watch?v=ZYSOwyCxqJ8&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=101][AWS re:Invent 2023 - Scaling serverless data processing with Amazon Kinesis and Apache Kafka(SVS307) - YouTube]]
+- [[https://www.youtube.com/watch?v=wyeEWt5mFPI&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=132][AWS re:Invent 2023 - Building state machines with AWS Step Functions Workflow Studio (API209) - YouTube]]
+- [[https://www.youtube.com/watch?v=8un6y5L2LPU&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=124][AWS re:Invent 2023 - Demystifying and mitigating AWS Lambda cold starts (COM305) - YouTube]]
+- [[https://www.youtube.com/watch?v=YYStP97pbXo&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=129][AWS re:Invent 2023 - [LAUNCH] Introducing Amazon ElastiCache Serverless (DAT342) - YouTube]]
+- [[https://www.youtube.com/watch?v=Mdh_2PXe9i8&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=157][AWS re:Invent 2023 - “Rustifying” serverless: Boost AWS Lambda performance with Rust (COM306) - YouTube]]
+- [[https://www.youtube.com/watch?v=GWa2N3xe73M&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=158][AWS re:Invent 2023 - Using AWS Lambda to process Amazon SQS and Amazon SNS messages (SVS212) - YouTube]]
+
+** Transformation and modernisation
+- [[https://www.youtube.com/watch?v=ml1Yb-ddGt0&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=227][AWS re:Invent 2023 - Application modernization, microservices & the strangler fig pattern (ENT321-R) - YouTube]]
+- [[https://www.youtube.com/watch?v=heLvxK5N8Aw&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=234][AWS re:Invent 2023 - How to not sabotage your transformation (SEG201) - YouTube]]
+- [[https://www.youtube.com/watch?v=_MTDN2r5-oI&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=65][AWS re:Invent 2023 - AWS MAP: A proven methodology for cloud migration and modernization (ENT220) - YouTube]]
+- [[https://www.youtube.com/watch?v=yWYzPhuFY8k&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=9][modernisation: Lessons in modernizing monolithic .NET applications to microservices]]
+- [[https://www.youtube.com/watch?v=bIu8XZZROw4&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=244][AWS re:Invent 2023 - Refactoring to serverless (SVS305) - YouTube]]
+- [[https://www.youtube.com/watch?v=FhHE0RcZGRY&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=217][AWS re:Invent 2023 - Architecture-led portfolio migration and modernization (ENT236) - YouTube]]
+- [[https://www.youtube.com/watch?v=OWBazBRsF2A&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=193][AWS re:Invent 2023 - Build production-ready serverless .NET apps with AWS Lambda (XNT301) - YouTube]]
+
+** Resiliency and scale
+- [[https://www.youtube.com/watch?v=OPEQcRAMs0U&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=232][AWS re:Invent 2023 - Building a practice to optimize your customer’s resilience journey (PEX208) - YouTube]]
+- [[https://www.youtube.com/watch?v=jaehZYBNG0Y&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=93][AWS re:Invent 2023 - Improve operational efficiency and resilience with AWS Support (SUP310) - YouTube]]
+- [[https://www.youtube.com/watch?v=MARiKxvrdmc&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=200][AWS re:Invent 2023 - Building observability to increase resiliency (COP343) - YouTube]]
+- [[https://www.youtube.com/watch?v=QSudpowE_Hs&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=100][AWS re:Invent 2023 - Performance & efficiency at Pinterest: Optimizing the latest instances (COP352) - YouTube]]
+
+
+* Corp
+- [[https://aws.amazon.com/blogs/aws/leverage-foundation-models-for-business-analysis-at-scale-with-amazon-sagemaker-canvas/][Leverage foundation models for business analysis at scale with Amazon SageMaker Canvas | AWS News Blog]]
+- [[https://www.youtube.com/watch?v=BqlekBinWuA&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=2][AWS Device farm testing, various browsers]]
+
+
+* AI and Data
+- [[https://www.youtube.com/watch?v=e3snrDsct1o&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=130][AWS re:Invent 2023 - A leader’s guide to generative AI: Using history to shape the future (SEG204) - YouTube]]
+- [[https://www.youtube.com/watch?v=q4m3vuodJXc&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=140][AWS re:Invent 2023 - Transform your customer service organization with AI and automation (BIZ224) - YouTube]]
+- [[https://www.youtube.com/watch?v=yptN4Ws31U0&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=26][Challenge of AI in cloud security]]
+- [[https://www.youtube.com/watch?v=iiBUiC-2nPM&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=27&pp=iAQB][How security teams can strengthen security using generative AI]]
+- [[https://www.youtube.com/watch?v=1jJD1vJYPxA&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=31][Building an AI comic video generator with Amazon Bedrock]]
+- [[https://www.youtube.com/watch?v=CbFuso1OscA&list=PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV&index=12][AWS re:Invent 2023 - Deploy gen AI apps efficiently at scale with serverless containers (CON303) - YouTube]]
+- [[https://www.youtube.com/watch?v=9pXpoxf_los&list=PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-&index=3][AWS re:Invent 2023 - Putting your data to work with generative AI | AIM250-INT - YouTube]]
+- [[https://www.youtube.com/watch?v=1Lat8dP7Eq0&list=PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-&index=9][AWS re:Invent 2023 - From hype to impact: Building a generative AI architecture (ARC217) - YouTube]]
+- [[https://www.youtube.com/watch?v=1Lat8dP7Eq0&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=77][AWS re:Invent 2023 - From hype to impact: Building a generative AI architecture (ARC217) - YouTube]]
+- [[https://www.youtube.com/watch?v=WTI2xfIQaKU&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=81][AWS re:Invent 2023 - 3-phased approach to delivering a lakehouse with data mesh (ANT106) - YouTube]]
+- [[https://www.youtube.com/watch?v=aEYgBtFNRvY&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=83][AWS re:Invent 2023 - Preventing student debt using predictive data at scale (IDE106) - YouTube]]
+- [[https://www.youtube.com/watch?v=nDoojNaRhPE&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=97][AWS re:Invent 2023 - Jupyter AI: Open source brings LLMs to your notebooks (OPN203) - YouTube]]
+- [[https://www.youtube.com/watch?v=jlqgGkh1wzY&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=170][AWS re:Invent 2023 - Prompt engineering best practices for LLMs on Amazon Bedrock (AIM377) - YouTube]]
+- [[https://www.youtube.com/watch?v=-QLY-2uftio&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=205][AWS re:Invent 2023 - Building interoperability and data collaboration workloads with AWS (ADM201) - YouTube]]
+
+
+* FS
+- [[https://www.youtube.com/watch?v=C4Ua9w67068&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=161][AWS re:Invent 2023 - Fast forward: Building the future of financial services today (FSI203) - YouTube]]
+- [[https://www.youtube.com/watch?v=JNS58eExA9M&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=162][AWS re:Invent 2023 - Mining real-time data in financial services and travel & hospitality (CEN301) - YouTube]]
+
+** Customer Testimonials
+- [[https://www.youtube.com/watch?v=Y170dGDlpM8&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=57][Goldman Sachs: The journey to zero downtime (FSI310)]]
+- [[https://www.youtube.com/watch?v=WS13FvDxcjs&list=PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV&index=15][AWS re:Invent 2023 - How Oaktree Capital saved 50% by modernizing its Microsoft workloads (ENT318) - YouTube]]
+- [[https://www.youtube.com/watch?v=lEVXE9CCNC4&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=87][AWS re:Invent 2023 - Fidelity Investments: Building a scalable security monitoring tool (FSI202) - YouTube]]
+- [[https://www.youtube.com/watch?v=gNCKJUg8qEo&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=222][AWS re:Invent 2023 - Stripe: Architecting for observability at massive scale (FSI319) - YouTube]]
+- [[https://www.youtube.com/watch?v=hgIqWCRKA2k&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=148][AWS re:Invent 2023 - Capital One: Achieving resiliency to run mission-critical applications (FSI314) - YouTube]]
+- [[https://www.youtube.com/watch?v=iB78FrFWrLE&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=167][AWS re:Invent 2023 - Coinbase: Building an ultra-low-latency crypto exchange on AWS (FSI309) - YouTube]]
+- [[https://www.youtube.com/watch?v=3BCa37587A0&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=144][AWS re:Invent 2023 - Principal Financial enhances CX using call analytics and generative AI (AIM223) - YouTube]]
+
+** GRC
+- [[https://www.youtube.com/watch?v=O_r3-thv0pA&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=146][AWS re:Invent 2023 - What’s new with AWS governance and compliance (COP340) - YouTube]]
+- [[https://www.youtube.com/watch?v=nu69JLkc0G8&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=12][Implementing end-to-end compliance on AWS, featuring BMW (COP331)]]
+- [[https://www.youtube.com/watch?v=7g4aCuWYE1k&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=117][AWS re:Invent 2023 - Automating reporting on compliance controls at cloud scale (SEC232) - YouTube]]
+
+* ESG
+- [[https://www.youtube.com/watch?v=LDCPDlS-Xlc&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=45][Driving social impact through AWS builders and initiatives (IMP102)]]
+- [[https://www.youtube.com/watch?v=3-az561GnZk&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=113][AWS re:Invent 2023 - Serving marginalized populations through research and data science (IDE107) - YouTube]]
+- [[https://www.youtube.com/watch?v=3-az561GnZk&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=113][AWS re:Invent 2023 - Serving marginalized populations through research and data science (IDE107) - YouTube]]
+- [[https://www.youtube.com/watch?v=Q-yjnrFyAf0&list=PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV&index=9][AWS re:Invent 2023 - Using AI for ESG reporting and data-driven decision-making (SUS204) - YouTube]]
+
+* Innovation
+- [[https://www.youtube.com/watch?v=iEV3H_IV-ag&list=PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-&index=6][AWS re:Invent 2023 - Innovation talk: Emerging tech | HYB207-INT - YouTube]]
+
+* Misc
+- [[https://www.youtube.com/watch?v=yj2NajzB24A&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=54&pp=iAQB][Disrupting your thinking on end user computing (EUC205)]]
+- [[https://www.youtube.com/watch?v=Viurp8p34Eo&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=168][AWS re:Invent 2023 - Overspending on laptops? Introducing Amazon WorkSpaces Thin Client (EUC215) - YouTube]]
+- [[https://www.youtube.com/watch?v=i77D556lrgY&list=PL2yQDdvlhXf93SMk5EpQVIq4kdWQhUcMV&index=11][AWS re:Invent 2023 - A developer’s guide to cloud networking (BOA207) - YouTube]]
+- [[https://www.youtube.com/watch?v=gdqgk17T2Xw&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=157][AWS re:Invent 2023 - A career journey for serverless and container cloud developers (GBL207) - YouTube]]
+- [[https://www.youtube.com/watch?v=__2f3YVCRn0&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=9][AWS re:Invent 2023 - How to build a business catalog with Amazon DataZone (ANT217) - YouTube]]
+- [[https://www.youtube.com/watch?v=vXJsU1b_JQs&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=145][AWS re:Invent 2023 - Customer insights: Apple app development with Amazon EC2 Mac instances (CMP218) - YouTube]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
