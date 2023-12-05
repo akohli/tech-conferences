@@ -9,15 +9,13 @@
 - [[https://www.youtube.com/watch?v=qySi057gXuo&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index][Keynote Werner Vogels]]
 
 * Tech
-
 - [[https://www.youtube.com/watch?v=qySi057gXuo&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=7][SaaS building multi tenant arch]]
 - [[https://www.youtube.com/watch?v=sDn1Xg4CJp4&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=72&pp=iAQB ][NFTs]]
-
-- [[https://www.youtube.com/watch?v=kZ3BZ0DhwHA&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=42 ][Build and run it: Streamline DevOps with machine learning on AWS (DOP207)]]
-- Gray failures, https://www.youtube.com/watch?v=LzIZ-dEzgEw&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=13
 - [[https://www.youtube.com/watch?v=WjCWrVnDmrM&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=51&pp=iAQB ][modern autho0, lessons from cryptography]]
 
-* Devops, includiing Observability, and cloud ops 
+* Devops, includiing Observability, and cloud ops
+- [[https://www.youtube.com/watch?v=kZ3BZ0DhwHA&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=42 ][Build and run it: Streamline DevOps with machine learning on AWS (DOP207)]]
+
 ** Platforms
 - [[https://www.youtube.com/watch?v=6kK27w0xPMQ&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=29][How to build a platform that developers love (DOP219)]]
 - [[https://www.youtube.com/watch?v=8mUosAh3gLc&list=PL2yQDdvlhXf9dPFE1cCdiBovjN4Q6oCg-&index=2][AWS re:Invent 2023 - Build without limits: The next-generation developer experience at AWS (DOP225) - YouTube]]
@@ -63,6 +61,7 @@
 - [[https://www.youtube.com/watch?v=jaehZYBNG0Y&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=93][AWS re:Invent 2023 - Improve operational efficiency and resilience with AWS Support (SUP310) - YouTube]]
 - [[https://www.youtube.com/watch?v=MARiKxvrdmc&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=200][AWS re:Invent 2023 - Building observability to increase resiliency (COP343) - YouTube]]
 - [[https://www.youtube.com/watch?v=QSudpowE_Hs&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=100][AWS re:Invent 2023 - Performance & efficiency at Pinterest: Optimizing the latest instances (COP352) - YouTube]]
+- Gray failures, https://www.youtube.com/watch?v=LzIZ-dEzgEw&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=13
 
 
 * Corp
