@@ -43,7 +43,7 @@
 - [[https://www.youtube.com/watch?v=ZYSOwyCxqJ8&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=101][AWS re:Invent 2023 - Scaling serverless data processing with Amazon Kinesis and Apache Kafka(SVS307) - YouTube]]
 - [[https://www.youtube.com/watch?v=wyeEWt5mFPI&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=132][AWS re:Invent 2023 - Building state machines with AWS Step Functions Workflow Studio (API209) - YouTube]]
 - [[https://www.youtube.com/watch?v=8un6y5L2LPU&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=124][AWS re:Invent 2023 - Demystifying and mitigating AWS Lambda cold starts (COM305) - YouTube]]
-- [[https://www.youtube.com/watch?v=YYStP97pbXo&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=129][AWS re:Invent 2023 - [LAUNCH] Introducing Amazon ElastiCache Serverless (DAT342) - YouTube]]
+- [[https://www.youtube.com/watch?v=YYStP97pbXo&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=129][LAUNCH Introducing Amazon ElastiCache Serverless (DAT342)]]
 - [[https://www.youtube.com/watch?v=Mdh_2PXe9i8&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=157][AWS re:Invent 2023 - “Rustifying” serverless: Boost AWS Lambda performance with Rust (COM306) - YouTube]]
 - [[https://www.youtube.com/watch?v=GWa2N3xe73M&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=158][AWS re:Invent 2023 - Using AWS Lambda to process Amazon SQS and Amazon SNS messages (SVS212) - YouTube]]
 
@@ -61,7 +61,7 @@
 - [[https://www.youtube.com/watch?v=jaehZYBNG0Y&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=93][AWS re:Invent 2023 - Improve operational efficiency and resilience with AWS Support (SUP310) - YouTube]]
 - [[https://www.youtube.com/watch?v=MARiKxvrdmc&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=200][AWS re:Invent 2023 - Building observability to increase resiliency (COP343) - YouTube]]
 - [[https://www.youtube.com/watch?v=QSudpowE_Hs&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=100][AWS re:Invent 2023 - Performance & efficiency at Pinterest: Optimizing the latest instances (COP352) - YouTube]]
-- Gray failures, https://www.youtube.com/watch?v=LzIZ-dEzgEw&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=13
+- [[https://www.youtube.com/watch?v=LzIZ-dEzgEw&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=13][Gray failures]]
 
 
 * Corp
