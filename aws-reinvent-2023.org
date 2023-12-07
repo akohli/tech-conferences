@@ -12,7 +12,7 @@
 - [[https://www.youtube.com/watch?v=sDn1Xg4CJp4&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=72&pp=iAQB ][NFTs]]
 - [[https://www.youtube.com/watch?v=WjCWrVnDmrM&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=51&pp=iAQB ][modern autho0, lessons from cryptography]]
 
-* Devops, includiing Observability, and cloud ops
+* Devops, including Observability, and cloud ops
 - [[https://www.youtube.com/watch?v=kZ3BZ0DhwHA&list=PL2yQDdvlhXf-5R7VtNr9P4nosA7DiDtM1&index=42 ][Build and run it: Streamline DevOps with machine learning on AWS (DOP207)]]
 
 ** Platforms
